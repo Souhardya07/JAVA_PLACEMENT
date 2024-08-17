@@ -21,7 +21,7 @@ public class Strings {
         //    sb.delete(2, 3);
         //    System.out.println(sb);
         //    // append chareccter
-           sb.append("e");
-           System.out.println(sb);
-    }
-}
+//            sb.append("e");
+//            System.out.println(sb);
+//     }
+// }
