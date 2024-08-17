@@ -1,6 +1,6 @@
-public class Strings {
-    public static void main(String args[]){
-        StringBuilder sb = new StringBuilder("Tony");
+// public class Strings {
+//     public static void main(String args[]){
+//         StringBuilder sb = new StringBuilder("Tony");
         //     System.out.println(sb);
 
         //     // Finding out a charecter at aspecific index
@@ -23,5 +23,9 @@ public class Strings {
         //    // append chareccter
 //            sb.append("e");
 //            System.out.println(sb);
+<<<<<<< Updated upstream
+=======
+            //   System.out.println(sb.length());
+>>>>>>> Stashed changes
 //     }
 // }
