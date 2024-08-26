@@ -15,17 +15,20 @@
 //      System.out.println(sb);
 //    }
 // }
-public class Reverse{
-   public static void main(String[] args) {
-       // Original string
-       String original = "Hello, World!";
+
+// using inbuilt functions 
+
+// public class Reverse{
+//    public static void main(String[] args) {
+//        // Original string
+//        String original = "Hello, World!";
        
-       // Reverse the string using StringBuilder's reverse() method
-       String reversed = new StringBuilder(original).reverse().toString();
+//        // Reverse the string using StringBuilder's reverse() method
+//        String reversed = new StringBuilder(original).reverse().toString();
        
-       // Output the reversed string
-       System.out.println("Original String: " + original);
-       System.out.println("Reversed String: " + reversed);
-   }
-}
+//        // Output the reversed string
+//        System.out.println("Original String: " + original);
+//        System.out.println("Reversed String: " + reversed);
+//    }
+// }
 
