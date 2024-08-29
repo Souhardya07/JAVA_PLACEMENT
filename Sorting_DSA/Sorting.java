@@ -1,6 +1,6 @@
-public class Sorting {
-   public static void main(String[] args) {
-    int [] number = {7,8,3,1,2};
+// public class Sorting {
+//    public static void main(String[] args) {
+//     int [] number = {7,8,3,1,2};
 
     // Bubble sort 
 
@@ -42,17 +42,17 @@ public class Sorting {
 
       // TIME COMPLEXITY:
 
-     for (int i =1; i<number.length;i++){
-        int element = number[i];
-        int j = i-1;
-        while (j>=0 && element < number[j]){
-            number[j+1] =number[j];
-            j--;
-        }
-        number[j+1] = element;
-     }
+//      for (int i =1; i<number.length;i++){
+//         int element = number[i];
+//         int j = i-1;
+//         while (j>=0 && element < number[j]){
+//             number[j+1] =number[j];
+//             j--;
+//         }
+//         number[j+1] = element;
+//      }
 
-   }
-}
+//    }
+// }
   
 
